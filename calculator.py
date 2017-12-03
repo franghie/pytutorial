@@ -7,3 +7,4 @@ if __name__ == "__main__":
     print(fibonacci.fibonacci(2))
     print(fibonacci.fibonacci(3))
     print(fibonacci.fibonacci(4))
+    print(fibonacci.fibonacci(5))
