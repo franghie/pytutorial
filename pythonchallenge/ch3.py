@@ -8,4 +8,4 @@ for k, v in sorted_dict:
     print (k, v)
 
 
-
+#http://www.pythonchallenge.com/pc/def/equality.html
